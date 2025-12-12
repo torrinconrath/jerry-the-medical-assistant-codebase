@@ -1,4 +1,4 @@
-## Dataset Processing (Takes a while)
+## Dataset Processing (Takes around 9-10 HRS with 12 GB)
 First download the dataset from https://www.kaggle.com/datasets/yousefsaeedian/ai-medical-chatbot
 
 Look into DataOutputProcessing.ipynb:
