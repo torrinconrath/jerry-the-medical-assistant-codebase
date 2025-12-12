@@ -6,7 +6,7 @@ Then you need to set up a huggingface account and put your token inside the note
 After that make sure you have the installed the necessary imports and run the file.
 
 ## Model Fine-tuning Initialization (60 GB VRAM Needed)
-First reformat the subset dataset (Or use https://drive.google.com/drive/folders/108_8uL-6HTn1_Rf22fRdGFNzrxXGzDX2?usp=sharing to download pre-formatted dataset) into .parquet. 
+First reformat the subset dataset into .parquet. (Or use https://drive.google.com/drive/folders/108_8uL-6HTn1_Rf22fRdGFNzrxXGzDX2?usp=sharing to download pre-formatted dataset)
 
 To start fine-tuning, put the .parquet dataset under the same directory as SFT.ipynb.
 Then, run SFT.ipynb script on a device that has over 60 VRAM, the final cell will save the model trained params.
