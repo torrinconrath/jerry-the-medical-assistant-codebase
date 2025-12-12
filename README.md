@@ -1,4 +1,4 @@
-## Dataset Processing (Takes around 9-10 HRS with RTX 4070 and batch size of 25)
+## Dataset Processing
 First download the dataset from https://www.kaggle.com/datasets/yousefsaeedian/ai-medical-chatbot
 
 Look into DataOutputProcessing.ipynb:
